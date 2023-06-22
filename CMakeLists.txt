@@ -35,8 +35,8 @@ target_link_libraries(OSM_A_star_search
 # Add the testing executable
 add_executable(test test/utest_rp_a_star_search.cpp src/route_planner.cpp src/model.cpp src/route_model.cpp)
 
-target_link_libraries(test 
-    gtest_main 
+target_link_libraries(test
+    gtest_main
     pugixml
 )
 

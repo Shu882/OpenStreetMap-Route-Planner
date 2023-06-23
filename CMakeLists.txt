@@ -48,3 +48,7 @@ endif()
 if(MSVC)
 	target_compile_options(OSM_A_star_search PUBLIC /D_SILENCE_CXX17_ALLOCATOR_VOID_DEPRECATION_WARNING /wd4459)
 endif()
+
+if(APPLE)
+    include_directories(AFTER "/opt/X11/include")
+endif()

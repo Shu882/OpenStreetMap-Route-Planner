@@ -52,35 +52,35 @@ build cmake_object_order_depends_target_OSM_A_star_search: phony || cmake_object
 build CMakeFiles/OSM_A_star_search.dir/src/main.cpp.o: CXX_COMPILER__OSM_A_star_search_Debug /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/src/main.cpp || cmake_object_order_depends_target_OSM_A_star_search
   DEP_FILE = CMakeFiles/OSM_A_star_search.dir/src/main.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
-  INCLUDES = -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /usr/local/include/io2d -isystem /usr/X11R6/include/cairo -isystem /usr/local/Cellar/graphicsmagick/1.3.40_2/include/GraphicsMagick
+  INCLUDES = -I/opt/X11/include -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /usr/local/include/io2d -isystem /usr/X11R6/include/cairo -isystem /usr/local/Cellar/graphicsmagick/1.3.40_2/include/GraphicsMagick
   OBJECT_DIR = CMakeFiles/OSM_A_star_search.dir
   OBJECT_FILE_DIR = CMakeFiles/OSM_A_star_search.dir/src
 
 build CMakeFiles/OSM_A_star_search.dir/src/model.cpp.o: CXX_COMPILER__OSM_A_star_search_Debug /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/src/model.cpp || cmake_object_order_depends_target_OSM_A_star_search
   DEP_FILE = CMakeFiles/OSM_A_star_search.dir/src/model.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
-  INCLUDES = -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /usr/local/include/io2d -isystem /usr/X11R6/include/cairo -isystem /usr/local/Cellar/graphicsmagick/1.3.40_2/include/GraphicsMagick
+  INCLUDES = -I/opt/X11/include -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /usr/local/include/io2d -isystem /usr/X11R6/include/cairo -isystem /usr/local/Cellar/graphicsmagick/1.3.40_2/include/GraphicsMagick
   OBJECT_DIR = CMakeFiles/OSM_A_star_search.dir
   OBJECT_FILE_DIR = CMakeFiles/OSM_A_star_search.dir/src
 
 build CMakeFiles/OSM_A_star_search.dir/src/render.cpp.o: CXX_COMPILER__OSM_A_star_search_Debug /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/src/render.cpp || cmake_object_order_depends_target_OSM_A_star_search
   DEP_FILE = CMakeFiles/OSM_A_star_search.dir/src/render.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
-  INCLUDES = -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /usr/local/include/io2d -isystem /usr/X11R6/include/cairo -isystem /usr/local/Cellar/graphicsmagick/1.3.40_2/include/GraphicsMagick
+  INCLUDES = -I/opt/X11/include -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /usr/local/include/io2d -isystem /usr/X11R6/include/cairo -isystem /usr/local/Cellar/graphicsmagick/1.3.40_2/include/GraphicsMagick
   OBJECT_DIR = CMakeFiles/OSM_A_star_search.dir
   OBJECT_FILE_DIR = CMakeFiles/OSM_A_star_search.dir/src
 
 build CMakeFiles/OSM_A_star_search.dir/src/route_model.cpp.o: CXX_COMPILER__OSM_A_star_search_Debug /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/src/route_model.cpp || cmake_object_order_depends_target_OSM_A_star_search
   DEP_FILE = CMakeFiles/OSM_A_star_search.dir/src/route_model.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
-  INCLUDES = -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /usr/local/include/io2d -isystem /usr/X11R6/include/cairo -isystem /usr/local/Cellar/graphicsmagick/1.3.40_2/include/GraphicsMagick
+  INCLUDES = -I/opt/X11/include -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /usr/local/include/io2d -isystem /usr/X11R6/include/cairo -isystem /usr/local/Cellar/graphicsmagick/1.3.40_2/include/GraphicsMagick
   OBJECT_DIR = CMakeFiles/OSM_A_star_search.dir
   OBJECT_FILE_DIR = CMakeFiles/OSM_A_star_search.dir/src
 
 build CMakeFiles/OSM_A_star_search.dir/src/route_planner.cpp.o: CXX_COMPILER__OSM_A_star_search_Debug /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/src/route_planner.cpp || cmake_object_order_depends_target_OSM_A_star_search
   DEP_FILE = CMakeFiles/OSM_A_star_search.dir/src/route_planner.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
-  INCLUDES = -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /usr/local/include/io2d -isystem /usr/X11R6/include/cairo -isystem /usr/local/Cellar/graphicsmagick/1.3.40_2/include/GraphicsMagick
+  INCLUDES = -I/opt/X11/include -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /usr/local/include/io2d -isystem /usr/X11R6/include/cairo -isystem /usr/local/Cellar/graphicsmagick/1.3.40_2/include/GraphicsMagick
   OBJECT_DIR = CMakeFiles/OSM_A_star_search.dir
   OBJECT_FILE_DIR = CMakeFiles/OSM_A_star_search.dir/src
 
@@ -113,28 +113,28 @@ build cmake_object_order_depends_target_test: phony || cmake_object_order_depend
 build CMakeFiles/test.dir/test/utest_rp_a_star_search.cpp.o: CXX_COMPILER__test_Debug /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/test/utest_rp_a_star_search.cpp || cmake_object_order_depends_target_test
   DEP_FILE = CMakeFiles/test.dir/test/utest_rp_a_star_search.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
-  INCLUDES = -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest/include -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest
+  INCLUDES = -I/opt/X11/include -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest/include -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest
   OBJECT_DIR = CMakeFiles/test.dir
   OBJECT_FILE_DIR = CMakeFiles/test.dir/test
 
 build CMakeFiles/test.dir/src/route_planner.cpp.o: CXX_COMPILER__test_Debug /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/src/route_planner.cpp || cmake_object_order_depends_target_test
   DEP_FILE = CMakeFiles/test.dir/src/route_planner.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
-  INCLUDES = -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest/include -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest
+  INCLUDES = -I/opt/X11/include -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest/include -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest
   OBJECT_DIR = CMakeFiles/test.dir
   OBJECT_FILE_DIR = CMakeFiles/test.dir/src
 
 build CMakeFiles/test.dir/src/model.cpp.o: CXX_COMPILER__test_Debug /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/src/model.cpp || cmake_object_order_depends_target_test
   DEP_FILE = CMakeFiles/test.dir/src/model.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
-  INCLUDES = -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest/include -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest
+  INCLUDES = -I/opt/X11/include -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest/include -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest
   OBJECT_DIR = CMakeFiles/test.dir
   OBJECT_FILE_DIR = CMakeFiles/test.dir/src
 
 build CMakeFiles/test.dir/src/route_model.cpp.o: CXX_COMPILER__test_Debug /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/src/route_model.cpp || cmake_object_order_depends_target_test
   DEP_FILE = CMakeFiles/test.dir/src/route_model.cpp.o.d
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics -std=gnu++17
-  INCLUDES = -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest/include -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest
+  INCLUDES = -I/opt/X11/include -I/Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/pugixml/src -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest/include -isystem /Users/Ethan/Library/CloudStorage/OneDrive-UniversityofArizona/course_quant/Cpp/UdacityCpp/CppFoundations/CppRoutePlanning/thirdparty/googletest/googletest
   OBJECT_DIR = CMakeFiles/test.dir
   OBJECT_FILE_DIR = CMakeFiles/test.dir/src
 

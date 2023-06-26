@@ -69,7 +69,6 @@ TEST_F(RoutePlannerTest, TestCalculateHValue) {
 }
 
 
-
 // Test the AddNeighbors method.
 bool NodesSame(RouteModel::Node* a, RouteModel::Node* b) { return a == b; }
 TEST_F(RoutePlannerTest, TestAddNeighbors) {

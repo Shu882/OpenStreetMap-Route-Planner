@@ -10,6 +10,7 @@
 #   - GRAPHICSMAGICK_FOUND
 #
 
+
 # Use pkg-config, if available, to help find the library
 find_package(PkgConfig)
 pkg_check_modules(PC_GRAPHICSMAGICK GraphicsMagick)
